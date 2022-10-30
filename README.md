@@ -37,3 +37,9 @@ https://girlsfrontline.fandom.com/wiki/Dummy_Link
 
 ## Screenshoot
 ![screenshoot app](https://dummyimage.com/300/09f/fff.png)
+
+
+----------------------------------------------------------------
+
+## Rename project
+https://www.npmjs.com/package/react-native-rename
