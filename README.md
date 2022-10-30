@@ -45,3 +45,5 @@ https://girlsfrontline.fandom.com/wiki/Dummy_Link
 https://www.npmjs.com/package/react-native-rename
 ## Remove git
 rm -rf .git
+## IOS ONlLY: Invariant Violation: "AppName" has not been registered
+https://github.com/junedomingo/react-native-rename/issues/159
