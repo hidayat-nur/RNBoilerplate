@@ -43,3 +43,5 @@ https://girlsfrontline.fandom.com/wiki/Dummy_Link
 
 ## Rename project
 https://www.npmjs.com/package/react-native-rename
+## Remove git
+rm -rf .git
